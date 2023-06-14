@@ -57,6 +57,10 @@ Nota: Puedes utilizar XAMPP para instalar todos los anteriores y correrlos desde
 2. Copiar los archivos a tu folder de servidor
 3. Ejecutar desde el navegador
 
+## Uso
+El usuario administrador por defecto es <pre><code> biro </code></pre>
+Contraseña de usuario administrador biro por defecto es <pre><code> 1234 </code></pre>
+
 
 ## Apoyar
 BuyMeACoffee
