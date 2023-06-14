@@ -42,6 +42,7 @@ Apartado de finanzas totales por colegiaturas (Administrador)
 - MySQL
 - PHP
 - Apache
+
 Nota: Puedes utilizar XAMPP para instalar todos los anteriores y correrlos desde el localhost
 
 
