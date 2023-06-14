@@ -64,14 +64,14 @@ Contraseña de usuario administrador biro por defecto es <pre><code> 1234 </code
 
 
 ## Apoyar
-BuyMeACoffee
-<pre><code> https://www.buymeacoffee.com/birobytes </code></pre>
+BuyMeACoffee <pre><code> https://www.buymeacoffee.com/birobytes </code></pre>
 
-LinkedIn
-<pre><code> https://www.linkedin.com/in/peter-perez01/ </code></pre>
 
-Web:
-<pre><code> https://birosoft.000webhostapp.com/ </code></pre>
+LinkedIn <pre><code> https://www.linkedin.com/in/peter-perez01/ </code></pre>
+
+
+Web: <pre><code> https://birosoft.000webhostapp.com/ </code></pre>
+
 
 
 ## Contribución
