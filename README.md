@@ -48,13 +48,13 @@ Nota: Puedes utilizar XAMPP para instalar todos los anteriores y correrlos desde
 
 ## Instalación
 
-1. Instalar la base de datos que se encuentra en la carpeta 'sql'
-  1.1 Ingresa a PhpMyAdmin
-  1.2 Clic en nueva base de datos
-  1.3 Nombrarla como 'biromusic'
-  1.4 Clic en importar
-  1.5 Seleccionar el archivo de base de datos de la carpeta 'sql'
-  1.6 Clic en continuar
+1. Instalar la base de datos que se encuentra en la carpeta 'sql'<br>
+  1.1 Ingresa a PhpMyAdmin<br>
+  1.2 Clic en nueva base de datos<br>
+  1.3 Nombrarla como 'biromusic'<br>
+  1.4 Clic en importar<br>
+  1.5 Seleccionar el archivo de base de datos de la carpeta 'sql'<br>
+  1.6 Clic en continuar<br>
 2. Copiar los archivos a tu folder de servidor
 3. Ejecutar desde el navegador
 
